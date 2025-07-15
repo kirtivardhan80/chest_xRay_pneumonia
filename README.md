@@ -1,7 +1,7 @@
 # 🩺 Chest X-Ray Pneumonia Detection using Deep Learning
 
 <div align="center">
-  <img src="Face recognition thumbnail" height="1200",width="632" alt="Face"/>
+  <img src="chest-xray.jpg" height="800",width="534" alt="Chest-Xray"/>
   <br/>
  
 </div>
