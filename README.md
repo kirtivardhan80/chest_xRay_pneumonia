@@ -155,8 +155,11 @@ pip install -r requirements.txt
 
 ## 📜 License
 
-This project is created for academic and educational use only.  
-Not for clinical or diagnostic purposes.
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this code for personal, academic, or commercial purposes, as long as proper credit is given.
+
+> ⚠️ Note: This project is for **educational and research purposes only**. It is **not intended for clinical or diagnostic use** without validation from medical professionals.
 
 ---
 
