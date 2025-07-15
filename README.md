@@ -1,5 +1,11 @@
 # 🩺 Chest X-Ray Pneumonia Detection using Deep Learning
 
+<div align="center">
+  <img src="Face recognition thumbnail" height="1200",width="632" alt="Face"/>
+  <br/>
+ 
+</div>
+
 This project aims to detect pneumonia from chest X-ray images using a Convolutional Neural Network (CNN) built with TensorFlow/Keras. It classifies images as either **Normal** or **Pneumonia**, assisting in faster and more accurate diagnoses.
 
 ---
